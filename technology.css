@@ -1,0 +1,14 @@
+body {
+  font: normal normal normal 18pt/24pt Tahoma, Arial, Sans-serif;
+  border: 0; margin: 0; padding: 0;
+}
+h2, p {
+  text-align: center;
+}
+div#innerDiv {
+  display: inline-block;
+  padding: 0 auto;
+}
+content#content {
+  text-align: left;
+}
